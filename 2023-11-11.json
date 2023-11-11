@@ -1,0 +1,26 @@
+{
+  "name": "Steve Watts",
+  "age": 44,
+  "address": {
+    "street": "Vetrec Park",
+    "city": "Bapgeska",
+    "state": "TX",
+    "zip": "57101"
+  },
+  "contact": {
+    "phone": "(700) 966-1611",
+    "servicePhone": "800625682"
+  },
+  "birthday": "1988-01-21T17:39:42.607Z",
+  "ip": "135.126.213.58",
+  "foo": "bar",
+  "profile": {
+    "about": "Jiidrol za uha hajpeggew wivhemni ajbolwa jul ru anso woljukag irraleh odfe cipac odoni. Wivrod bu ekecip gabru vo emvudzo riwok vub ofjo igige tapuvnuk getilum. Kekegtom koivi orusoaze gaar si fakzever dojompag galincu papenu dur asodevu awzit uvo tol kodat fiibu hef ritaozo. Iponik te lukvome fo nubu dap dilisiw dosowtu lofpi pulvak takegnar vutusev tu kuvba kewjelpaf wocesacib ec kisur.",
+    "bio": "Nojduhuh utawacwi azajciv gi guhu fu dubu remdav howeva cumpec luj dun kul. Denkol fawuraki pear mof ceho cobak giijumos tiaboaj edracta lejapcab ziv remgaw pi ce zarfibvor bezhunzor con. Nu kafsol uzuvoj wimmon haslez ropvauzu sig zoid si recvat ozurosa age kaski su vuwa. Fuic icvu wordijse gizemerun rohicvak ho opva ofvez ujemiwku ob az fa ubdo sauzako kih donur waso. Roje ecivogtul duw ilaamja rewnohped uvehap tuire mo rucdu sapudoja nor lozeoka ud sapolwo."
+  },
+  "apiKey": "b6e7d95c14fcbb218d7a6240034599a34e401234849669daf4cdf5ed5dcf096d",
+  "currency": {
+    "code": "MZN",
+    "name": "Mozambique Metical"
+  }
+}
