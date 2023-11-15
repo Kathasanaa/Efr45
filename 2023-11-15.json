@@ -1,0 +1,26 @@
+{
+  "name": "Mina Graves",
+  "age": 50,
+  "address": {
+    "street": "Somub Turnpike",
+    "city": "Imoafalu",
+    "state": "ID",
+    "zip": "86291"
+  },
+  "contact": {
+    "phone": "(466) 625-3968",
+    "servicePhone": "800711822"
+  },
+  "birthday": "1977-06-30T01:26:40.876Z",
+  "ip": "22.49.119.250",
+  "foo": "bar",
+  "profile": {
+    "about": "Ve ic wa dobibah jogu igduf iksa cufinow ja pi nopileru pu ror ce pescaw. Voiji unu roaz guf bub rek jimiwmel guad vehlo rumhu umzo dar. Jo wotocoku uclap ka rusomve kivazule mavo gozok dobeb mov zowwaw tu fagi ci poeke. Ruvesa riugi zusu cobcapa kal jamimzop ehgol tocage relkoh da ure seabta rihe toghidu.",
+    "bio": "Ca ek norso cur umlo lizungot guwuav luw endupab occuz beda oheduppaw nuknebij anotafnin vogekpe. Cefohjok ranuni unoporu lemij guc socotho jekcuki waaca sa obefeob mute icave olisozjez nu te. Vudta vo fiogieli kongasi jo tivhapan ihode najiiga muuhihef fifhiole cemhazca ov wa nak owak nunu wutelan."
+  },
+  "apiKey": "4c6af03797e44de09571816f8202e585764de8d97870548eae5fa034aabe28cb",
+  "currency": {
+    "code": "TND",
+    "name": "Tunisia Dinar"
+  }
+}
