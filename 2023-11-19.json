@@ -1,0 +1,26 @@
+{
+  "name": "Henry Simpson",
+  "age": 19,
+  "address": {
+    "street": "Sukej Road",
+    "city": "Cilafic",
+    "state": "TX",
+    "zip": "48384"
+  },
+  "contact": {
+    "phone": "(388) 241-3818",
+    "servicePhone": "800287295"
+  },
+  "birthday": "1989-12-18T11:19:19.470Z",
+  "ip": "6.156.33.206",
+  "foo": "bar",
+  "profile": {
+    "about": "Gac evu urabavzu pif gitmimat eb witi zegen pah mi ne gi. Juvun ed sacic kolizhik arovavpi etgeni homaf wuvaje tul amu lumzugoj tuovaga kijse za. Cajacaj ciffi gulilwe pa vumodeiv gurresni vabom fupa ti zotu fak usvaus. Nepuble sidressak bu atrozzu wowrev ow agaun luhu jipizifa zuk ritam bupgobob ti kesihmi nus. Budek tatelo case igkudage sibkutna jamoaje ko ho fo zipeb tu pih ajrolle upoatve ter zi. Mikojmap uba rohkizi na alejus so jap debamfeh rittot rup hew ki telva. Zi towowcug zihus tiar ipeejuwi en lavla jowog voj rurwasguf irzab puk.",
+    "bio": "Wu gol huwal sasdez nibo hupmocinu zojwubar relemi nuara avudicez rut hera sobtepo guptohtab. Wodi zalhelob gaz issu toh dilved zomjuze roj pukagoc noffom ub opicawi pim gap. Ratithi zoupa fuhlud pabep imeveh todkouvu go eruz ko cuuzewo iwi va honfeh tok. Mafrica benub uv huwkev vuezpaz niwkevwu wilihcow jin bit ejo ves kurum nalicig. Oruj ontaf joefohec ideec ju sezadib hid rimenhej osdo obo tunuwuf sodca takokit ebgukin bi."
+  },
+  "apiKey": "5c3b2b2dcd69bf8295be44067116da4d903c565ac5171f3c6af9bcbc7bd8aeec",
+  "currency": {
+    "code": "ISK",
+    "name": "Iceland Krona"
+  }
+}
