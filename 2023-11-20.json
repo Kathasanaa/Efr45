@@ -1,0 +1,26 @@
+{
+  "name": "Sylvia Reynolds",
+  "age": 19,
+  "address": {
+    "street": "Laru Point",
+    "city": "Zaducez",
+    "state": "MO",
+    "zip": "01908"
+  },
+  "contact": {
+    "phone": "(478) 932-7998",
+    "servicePhone": "800678478"
+  },
+  "birthday": "1970-09-01T18:24:09.166Z",
+  "ip": "33.76.149.236",
+  "foo": "bar",
+  "profile": {
+    "about": "Zotari tataw cozbupi on fivus eb puscicus kiz guz sepi hielzas iggafur hubbo hepgubu seniwfag ofwucici milga. Paru te kor dobiwi zutse imi ke peahofu solnimuwi bemaj usemi wageva bodoc lifum ahbe kigidu ari ud. Nalevucu so nuhabvo ommu wir lo hikdaj nafnum orza jut milbaziv dinoloce eh rawo sijzefap.",
+    "bio": "Wivuwo veb go sa gazaj moc kud vo sivdoede wuc icdi gapof sehod obillap maljoz ujhu deziv. To jus ibviwi nih ecaof repzi ribvolpol wew novso wiluc loeka saepihaf nuohceh tekzol wijjinu ahrotur hu. Hip larka hermekle dajtoh sitijogof arsa bokup gilolgam argek go ja safket zulizkaw rinel."
+  },
+  "apiKey": "b2809ce612d732340b58adbdd67a779e2a9b1c0447cbeda946423a590122b584",
+  "currency": {
+    "code": "CHF",
+    "name": "Switzerland Franc"
+  }
+}
