@@ -1,0 +1,26 @@
+{
+  "name": "Luella Garner",
+  "age": 32,
+  "address": {
+    "street": "Jonudu Terrace",
+    "city": "Honivoko",
+    "state": "TN",
+    "zip": "60965"
+  },
+  "contact": {
+    "phone": "(432) 330-2598",
+    "servicePhone": "800712827"
+  },
+  "birthday": "1991-08-21T22:57:03.136Z",
+  "ip": "16.144.21.207",
+  "foo": "bar",
+  "profile": {
+    "about": "Ifa zitwi hof lev fi he lebmizgaj gofo dosiceruj iluhu et lotagcoj zek ru to. Dorbu okwuvug fep ew joivtu ditof sinro bubi guhli kopof lelog pezpahwim li amoij nekbi ca. Ge sed iw ir uhu kucha omo en sebih ejununsaf pi af zap.",
+    "bio": "Pigtih buzjiver ocita da vo epi hawas imdazogo pispafic gugdiduw toz zodrewcil. Vuuro ihoasba nur fuk lupfe mipe guvpahi topejcad ja goc cukzu eb ne upe uf ahe. Ej en tetbanram ofabi sodfilver ver idiif iduvif leltek pu seg useda gof abela uva. Hotgi gu vevmi efeug zuwikfep afo mebjaga ahebo ukubos uhi hud sosbitah hof zevuh zefhuz."
+  },
+  "apiKey": "3279b27fbb8797c6e193eb93622a83025f252f2fb9c2d513781126185b0e4c73",
+  "currency": {
+    "code": "ISK",
+    "name": "Iceland Krona"
+  }
+}
