@@ -1,0 +1,26 @@
+{
+  "name": "Ralph Green",
+  "age": 30,
+  "address": {
+    "street": "Gosza Plaza",
+    "city": "Sajkuwu",
+    "state": "GA",
+    "zip": "75075"
+  },
+  "contact": {
+    "phone": "(367) 341-7040",
+    "servicePhone": "800777216"
+  },
+  "birthday": "2005-05-25T05:36:04.589Z",
+  "ip": "240.58.97.79",
+  "foo": "bar",
+  "profile": {
+    "about": "Obdiano tooh lu hahgun hi taweile toin ropik ol kawfeha sog miesdir abi et wap hodpevre. Mu wo pok ni niznazfu juvwo somtozsum zucleefa moogifa mijdipive wubuwbeg lezime vevazol we kuw jamakri. Wo fam esilo zu ceccod dolehgi jiim arfadvuc fuaz zonuep ripad devuv. Wajujo vignesa ce li ripica donjop hosbidbov avmogdij forawo jetun geszih dokezho gafwada memeh nez jeis. Zic zonja ce nelo mubad ku labekeze cuju he zuzsuken ezuzohis botilpa nupvagnow. Hihdiris ilet was zarkowi cocfi hi uzbo hozuori nag dik diacgup zawak emuero am cov ditilu vosjogu bet. Wihudi ab witi ikulosvem per binci vi copa alomifas gu rocepo sera.",
+    "bio": "Lepicwo lo alpubemo itji nuhepo sagi ef leb miez baeztil onoow ga ne daog sancazok zolru. La idururfa jasuru lotehwo so toud pokjo jibjene tamagpi izauce tul abo hera cufowju sabba dekfasfe cabnon libha. Lakwibin covjuh rovek agserbec bigaf idjoffiw aro zenlebjif wusveje izrar fuvigi cauf ane ki. Nigca epgu red salomi sug ibloctuz jovad def dupi ighekwuj leugda hu nelop ozenemor tunkuiru. Telamwa nijtensel gozpiic ehefukmi buob cava bow ho odcisda bocove od malevnij luso wokor. Fa ri zoh bo ab siwu sidokaw jekzehku lohoniv fagloepa mul isilu ane jis nohimun nopbiw."
+  },
+  "apiKey": "2d34d820029e58e5dd5409d99aa737979cd883cb659f261df24345a88dcaa913",
+  "currency": {
+    "code": "TND",
+    "name": "Tunisia Dinar"
+  }
+}
