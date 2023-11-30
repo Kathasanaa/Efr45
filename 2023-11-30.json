@@ -1,0 +1,26 @@
+{
+  "name": "Timothy Tran",
+  "age": 36,
+  "address": {
+    "street": "Huuc Boulevard",
+    "city": "Mazuto",
+    "state": "IL",
+    "zip": "51533"
+  },
+  "contact": {
+    "phone": "(415) 932-2090",
+    "servicePhone": "800975388"
+  },
+  "birthday": "1993-03-23T01:18:15.431Z",
+  "ip": "228.161.213.141",
+  "foo": "bar",
+  "profile": {
+    "about": "Gezirja akbegfes duidamig butdo te cud meweev unjip mugito ro uzo udzi muvzig. Mumupvoz zopwu davteh zer suvof torate pibmo ego fudwaha re uwjo tu zowta piz ajvop rirzawe. Nehhatiz pa dohucama har fu viwku beztoro evikiwud todlap waz locno mifumse luetepi narug per iwdiven jorifoze.",
+    "bio": "Cowinit vukez gocuwe sacib oztaspor zumi hokore nih ha go vekopo gowuta. Kanugafu nifratzo reaco vuphid vulroto ka ip da wilak en leobo foepa gerov gosuzke ob munon tuwido dufiduj. Zacrakib wurhuk wefijwa bidubien urfil vuc wek famupar punvi kewwej va ozakor pis tube wa di."
+  },
+  "apiKey": "9bd4c5458e81ffe7dccfb10453a609039a5ac0c5e7534e832b02a01eda936da6",
+  "currency": {
+    "code": "BSD",
+    "name": "Bahamas Dollar"
+  }
+}
