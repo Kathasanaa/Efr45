@@ -1,0 +1,26 @@
+{
+  "name": "Rachel Sandoval",
+  "age": 20,
+  "address": {
+    "street": "Ovawun Court",
+    "city": "Fisiov",
+    "state": "LA",
+    "zip": "50898"
+  },
+  "contact": {
+    "phone": "(318) 485-1291",
+    "servicePhone": "800432784"
+  },
+  "birthday": "1999-12-04T23:37:56.967Z",
+  "ip": "234.68.211.98",
+  "foo": "bar",
+  "profile": {
+    "about": "Ta nehsemne lorde pijep cowoviv vadtaep adigatem bulahvin hebhoho uzabaug fip asiodtur. Zu delizugir riffo ece moumo attian hob cotoun nuebari jobjim pus nubu ad soz laricjug. Busolfap ageigu nirko om buctaz wera bo itomal relivgu sadaw gogcif aguruag. Zes bujfoko ohjuv lotmakel voemi mulamjuw wartapog linju su cagtused okvalvi caj. Vipvidre ufpuru vec cawe balri sohek igjuotu kedse rifi od sardohjot vivfo osiwot fepce cimo pemhat he. De nip jiwerwa wohnaz lat lih cevof do za no teve afafiho ah eboidide mikaron.",
+    "bio": "Es mifiwkuf coju wuvbuiv magiz wufeg mu vegze va fubvigsor suceg hil namnihob tib vo. Ewumur vucasfe lovobguh zes gufiaj botegwus veranuki aje ge evehe viptal gu ger odu uhutizka. Za mohujoj mamwenek vadef kuwsugzu ow nugheruc goddon naevo kihon ol co. Gus varu zirruwpol jok sorfu ge ebijizop hi ja sewda jo pagpa gekjakew fivejrot hu teuwa dam voko."
+  },
+  "apiKey": "639804dd7f9b1e5e5d095427711aa9f7ded308d6516fd8a870e89f28f6dd5232",
+  "currency": {
+    "code": "GYD",
+    "name": "Guyana Dollar"
+  }
+}
