@@ -1,0 +1,26 @@
+{
+  "name": "Noah Osborne",
+  "age": 25,
+  "address": {
+    "street": "Suse Avenue",
+    "city": "Hodacwan",
+    "state": "UT",
+    "zip": "27107"
+  },
+  "contact": {
+    "phone": "(780) 415-3465",
+    "servicePhone": "800294422"
+  },
+  "birthday": "1977-08-30T22:00:00.176Z",
+  "ip": "88.77.42.155",
+  "foo": "bar",
+  "profile": {
+    "about": "Vulduoj tikabbag pepikohev ece bev mituovi cakmag katin wac pibevpan ded vero gi mugjak vo hihisa. Ruwicjis legvihfe ihate mibnood esaniel inu kicdur nagva pedjihih le wuhpib bifguka zelamowo raro ne koapvi. Si birehmo norovtuj mufif pajpucip movmuru radof mep zanor mip iricizcuv capgu. Paazozer bo uflok dac meak av lucmip wa ilo agafbuw ejahuuca wit dece odi. Aduwik dikte do enjev ras ke gutkioga mo cimagvu kesnepbu him ehu vapohsu sadi sukaso disga cif. Kiw ze rulube iwevuos nuvucu paf nesmase uka ven esesetce maruic ulauzuf mam ujo we.",
+    "bio": "Apdaz ilefeso ipzotuj muzigi wevirin boj nib es leh jijgojje su kapugpew ima puv lelpumaw izi ki femotuw. Gez ov lurod ibku pijaho as ve du kodok semwisog reweve ponuf vig ki cabeci. Kitcu dijkemup ofibodpaz lunwedpa fu de na gimguguz bapsehlaw pesi zosdobeb to kad denizzov luhlimup rahuri sem."
+  },
+  "apiKey": "8b9acbab832beef0793d33aee24196ce922fe6807bef3d16e6d251a682e699e4",
+  "currency": {
+    "code": "BHD",
+    "name": "Bahrain Dinar"
+  }
+}
