@@ -1,0 +1,26 @@
+{
+  "name": "Danny Fernandez",
+  "age": 51,
+  "address": {
+    "street": "Woszok Grove",
+    "city": "Wipipiko",
+    "state": "AL",
+    "zip": "53654"
+  },
+  "contact": {
+    "phone": "(987) 933-9718",
+    "servicePhone": "800353683"
+  },
+  "birthday": "1968-03-03T02:29:22.229Z",
+  "ip": "108.119.108.199",
+  "foo": "bar",
+  "profile": {
+    "about": "Lajfihluv baesapos duzof ce jo cutewe gum raibi gocehi osa jeliva keownur malalof ap fecmom vo fipbav. Izoba kakpigmih himob butope zi zooko utce afatu gofmoob sehewu ep fiuvek fuj vehu idinowpo. Unegi zotzaguc ko cuv omoliv uj dulojfe tozsi ikim ma ulbodciv ur daten zon ufurooz eliluba. Evezako rikze darpa oc ke wol geut watwos ganiho gozriwom ven uz esrew. Ipkuc coakpir ifkoez vit pu habusron sulwuib hun ke petibasez ikitorur lo. Bunru sidzac uzipu civoswuz buliti egbov aloenzif sin mo ziboj mavwalen ovanawu diabe me rek tumpofe. Lop zu emiwto nozuntul fizoca wurkerev ima magenpe huj zitefsuh be fikfuf amejiba hael ic le ototakfa vegvi.",
+    "bio": "Vok zaep se tiko haehvaf jam lokcoldat dusoj okarejija ta ja gab tu wip. Sar pefu weohimu mogoih mif tidu keza pen lam geriblol kal dohmoebo. Bobit ime bu ofacov pefo soh kabarjij ipudovim re ifigow otcel cimolim gitsoomo cujivge omi tadlepju. Melimi so acu konhut davmu dalu nurlurona pehu ti mat pir mor ib. Mobpemguv pa jetucedu na kin fof zemlol re vov kasufipu va obeufige zoftos edbo. Cuep akeku durmaw vi vujbise ilu ma di iwahitom wavpuvawu hirdudu cobohum."
+  },
+  "apiKey": "185e4b8b95ba52b1c4aca2b1b5a2def24823e34db745c20ab0995668dff42592",
+  "currency": {
+    "code": "SHP",
+    "name": "Saint Helena Pound"
+  }
+}
