@@ -1,0 +1,26 @@
+{
+  "name": "Gabriel Valdez",
+  "age": 27,
+  "address": {
+    "street": "Kildu Parkway",
+    "city": "Ijrirba",
+    "state": "NM",
+    "zip": "68423"
+  },
+  "contact": {
+    "phone": "(588) 278-6141",
+    "servicePhone": "800849837"
+  },
+  "birthday": "1994-07-16T12:17:43.880Z",
+  "ip": "140.122.71.43",
+  "foo": "bar",
+  "profile": {
+    "about": "Wavhebi izu ofemo ovhe ciptuho to ew oda zubtelpin balsibga pumfusa sen. Gasvopoj dubuvur betem iv nejut ke is zimipat gob fuac isgolihe bir mihirjeb ba. Neboso efa zele tepkuffa jono wocteep lucatsis gawacac avi lathoni juvorul horvujji ferara zujifud bubot avbos. Lewala ukduduv izelektap won pezcitmof oriraj jebomo luviofu ki serakud waj wa acgok. Mamne muapagos olija fitsanki se gozlarzi podvuzjur apilukik gobdonruw zizweket ta jicrovrep eso wuekalom le.",
+    "bio": "Ke woh gu ajegopo ziri vutabo ikaku sel itav gu vesvi wufahton. Fo betfasgic fobadi jidewwo fi awufek anacerira zi gigopni wucoru lupkov futdinoju nawida. Jete gekpel buefenew wodadgun na ode lupi murosbu zo duz amifpe ruw vuwep davafbek losu. Obu binobbeh ewmispe fu tupza hu wid liwaoh pu ogvac iczeba biori veepof. Cuwi fi onvurnez juut zaf putu tulec bet luehvew hi wekuh ficojogo vo."
+  },
+  "apiKey": "234583cc37ca22e820957d3a48db3e828deee05e0772395c90f4d943c38acf16",
+  "currency": {
+    "code": "CLP",
+    "name": "Chile Peso"
+  }
+}
