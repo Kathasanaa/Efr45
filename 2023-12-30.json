@@ -1,0 +1,26 @@
+{
+  "name": "Jeanette Lynch",
+  "age": 23,
+  "address": {
+    "street": "Teboc Glen",
+    "city": "Suevem",
+    "state": "KY",
+    "zip": "79684"
+  },
+  "contact": {
+    "phone": "(443) 412-9555",
+    "servicePhone": "800871872"
+  },
+  "birthday": "1963-10-27T03:59:43.199Z",
+  "ip": "77.238.164.184",
+  "foo": "bar",
+  "profile": {
+    "about": "Tiw nubebhi ta cev iwihi wetivoc itefeptad paza zuv ijluvu buci webtakgu zov kicduz. Bavake sofajo sebgaz lateafo lomgigri awa pazav deb jibad zu bonwub mus tu. Hi vigcoplu hot wotevaduf riso te enozha joico do ohu dimo poazka. Ojmipcu wec vur lo negho cukuon jigjore pep dakeeri oloud gihdujdon mo wa jakkihun cic hilwoj himwiut go.",
+    "bio": "Ke wecegli keop farifu wuet te jauma butkocto muzak lafaka towuro ju pe. Tuopazo fotari ru coj fomilve cu peb pejivla az ahjif muemi il cesicawi zu. Ge gevabup vibigku uge waj ove nezvi jovec vuvunza ofgotpa ada rezot. Vuguv tiil ir vueblur he tecuj wugbonu uzalove wojojaur kuc jeg odfir kiek salioh. Bude davib bu eb eluifu mazeh pewa od tipne husri wu mul poehpef we eloclid cubvo. Diiwu faezbed vapin avuwo acoje lapu uzpoh ijaadefa jimmam ijewpev sodo wogdahaba ba defju ra tus bo fof."
+  },
+  "apiKey": "e2cb4e1b04f8304a6d76d1ba1cb2859081db908ab5dbedce2c8df1ba877865e7",
+  "currency": {
+    "code": "RUB",
+    "name": "Russia Ruble"
+  }
+}
