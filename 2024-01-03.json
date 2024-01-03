@@ -1,0 +1,26 @@
+{
+  "name": "Victor Lopez",
+  "age": 58,
+  "address": {
+    "street": "Munila Manor",
+    "city": "Urvizla",
+    "state": "IN",
+    "zip": "97247"
+  },
+  "contact": {
+    "phone": "(553) 951-3714",
+    "servicePhone": "800759661"
+  },
+  "birthday": "1993-01-30T21:05:54.512Z",
+  "ip": "248.89.198.216",
+  "foo": "bar",
+  "profile": {
+    "about": "Naknim juzufi picoset cudi sumet huhwu akbeig ugauj zuf sod ogaategi fe ararem hewtiv uca odonaz ne nu. Pagavaca so icu pijimri najko og ka camihoome pawujcic ki vipma so puam dud. Izjob uzo didkikolu welte ruhpuj oze mas bisaj buw dot utjupduf uriijupag wondeco obrinak sov nu.",
+    "bio": "Woughak limas me mi jepokha lit cajoh rap rujdon vujofpah bulonaj kete. Kijigen sugacjoz igehihok ole fiswihora hudwezuw cuh fe kidej mevvehfoc jaf dafu ebsobza komour virjeh ehiaso. Furi azubous if so sa nuago deepize rarnu uweet pupuzki onvozme ipi ki roajce cagse."
+  },
+  "apiKey": "80b87a8141e833bdfa36038d7940d857776f1dcd8826ea6fdeef3f0f666aaee7",
+  "currency": {
+    "code": "TWD",
+    "name": "Taiwan New Dollar"
+  }
+}
