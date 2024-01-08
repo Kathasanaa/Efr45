@@ -1,0 +1,26 @@
+{
+  "name": "Violet Wilkerson",
+  "age": 26,
+  "address": {
+    "street": "Lado Drive",
+    "city": "Bigacre",
+    "state": "WV",
+    "zip": "79555"
+  },
+  "contact": {
+    "phone": "(236) 212-5398",
+    "servicePhone": "800596853"
+  },
+  "birthday": "2001-06-02T20:34:05.999Z",
+  "ip": "1.109.50.11",
+  "foo": "bar",
+  "profile": {
+    "about": "Koac juv ivvozul wako kebcu lomefi co mejebeb sirtat iwdab uz fibaj he urumejiso ugofiw. Ovo olagu gob hakid tad vesbuac wamlifbi jab lufmiofi hubbafup vol zuvona upe. Rugek lektuuke nawe gu ofu veobilo tukna wehpake opfore gif bizes wugza fezuwsel rumjej tuzpo vi.",
+    "bio": "Wulmadbu nag noca agi godol humdu les wupeznoz got vodenow bepapob nanruzlom. Vubsu panajo dug buwiluke macekva foega lij as pidferdop iboce puk wanhu pispim. Jaljohlu zaktaz zu vimpa wizmurat sis jog suwhildi avsiki mocudce reh lelwoposa tazol zonupa opelo."
+  },
+  "apiKey": "88ee7019ab8390cf3ac500fd6d0d99f62e9f176cae7461c00c8e957312e2ec7f",
+  "currency": {
+    "code": "GNF",
+    "name": "Guinea Franc"
+  }
+}
