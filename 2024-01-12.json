@@ -1,0 +1,26 @@
+{
+  "name": "Ora Hunter",
+  "age": 32,
+  "address": {
+    "street": "Hebavo Glen",
+    "city": "Sococko",
+    "state": "CT",
+    "zip": "31919"
+  },
+  "contact": {
+    "phone": "(938) 542-4544",
+    "servicePhone": "800336334"
+  },
+  "birthday": "1995-03-22T03:09:27.729Z",
+  "ip": "93.98.13.158",
+  "foo": "bar",
+  "profile": {
+    "about": "Nagor roci efin muf mof hag lospavon buhcacev ko ow fonuhvuv jug. Zi ih jes ogo ufosi hepazip uba towe so wo amejud eke hi udefun. Paliof zaspo fu hop zafuv goli adelej jo barfunsu te buw casbodu taltofak om jicbitaj ju fim.",
+    "bio": "Pa ekubez odi uwmu buples pusnit jal vuve fo doblorvur tajzus munocoad lecec agahu wa uwazulor pe uveca. Zakunegi jid sajoole apajen fa otono fuvos afebeil renivaju hipruw uglu late tajpu kotme weduci. Voubo poh sejzerapa ewekoase votcib le jubimi nugkic awmobset vuacvi ge fapwaf ma ifesohi newjen hutu. Jovbu fuzopelot coj fep ciwtos dez jeoneb rignen gezi bivolze unvuhi fulevrej milone nodpeh hoile dumpova sommonhul."
+  },
+  "apiKey": "4d6195c808b4791abfcc03f9f012d2ecbfe042db0dc0132a70c5e07d5925fe9f",
+  "currency": {
+    "code": "MMK",
+    "name": "Myanmar (Burma) Kyat"
+  }
+}
