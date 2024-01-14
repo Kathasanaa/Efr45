@@ -1,0 +1,26 @@
+{
+  "name": "Brian Sanchez",
+  "age": 48,
+  "address": {
+    "street": "Depam Drive",
+    "city": "Cejofar",
+    "state": "SD",
+    "zip": "34917"
+  },
+  "contact": {
+    "phone": "(922) 258-3363",
+    "servicePhone": "800858452"
+  },
+  "birthday": "1989-02-05T17:57:20.938Z",
+  "ip": "124.95.100.129",
+  "foo": "bar",
+  "profile": {
+    "about": "Lalunos jojom vellesa akutoj zijuzo bij uhme gep ojco wizis ahacam lifet ejiznu bow wo zozsad. Cosmicom pazo esmiruh aru in fok gefat ejhessav katvaifi ekuho zunpazhep nam mow perak sud cu isle. Nup bidducmut het fikru liput lec zif vekbuhag veazukum mokedpon gogja levopi odovi dov cu. Negakma rahuho edgi gijofreb oda celezag wokasu aheociice fanfiipe ga bojeboupi omwus mol naputu wesa vih fopirejib eh. Fikaric we tedajcod saf avipiv wiv jos wagsonag lot go uzhilagu noge. Obnem molloej wob ezatiwmo akagi co luvsal ro dibi bu lal agkuzir.",
+    "bio": "Ruvlorsih kekkez ju ughol ejeha zumkav arzulu jib tukdi siruba vi povib bovajeabu paj ijeojso ve su bomaza. Suko bakgedivo gidgerka zaz ho me zi faoleho dujtek epa nawge vocak ba uku sekgama mubvilgu lutkez. Fuv vif gap wov jewruthas wusnafses ukibon onif jijij nodcavhu zeb vu jasojdu neeh bihampog uwa gabfi be."
+  },
+  "apiKey": "f3e7491b9b6218bd3edbd51e1b8702fdfbe58c5eba7937af822c92113157b7a1",
+  "currency": {
+    "code": "BDT",
+    "name": "Bangladesh Taka"
+  }
+}
