@@ -1,0 +1,26 @@
+{
+  "name": "Dustin Ortega",
+  "age": 44,
+  "address": {
+    "street": "Hawe Grove",
+    "city": "Socavki",
+    "state": "RI",
+    "zip": "52351"
+  },
+  "contact": {
+    "phone": "(559) 826-3513",
+    "servicePhone": "800718776"
+  },
+  "birthday": "1997-08-10T09:42:33.774Z",
+  "ip": "227.183.73.182",
+  "foo": "bar",
+  "profile": {
+    "about": "Limecanah nito gozote evosipif jik uji becpoz udonambef jomartos ez sa judec ganwivgo fevjevcuf wom ohugijcu lu morow. Rowi odeni ne few hiszahut dumuge izocapa jam pokahkig hoh doujiubu hat oc zomi. Wabesmuj obuopwo cezma henehvu fe mo jujdoh vo vad iknilip ekilonnev buzet.",
+    "bio": "Oc alna huapili nosnahkos takaf cunle litivbu vo nevwiwe le vibaw ne wavatda pam. Jikabu ol ola luzrapeh pecibzib udonib po erhul sodve mejediwad bokgi vugocat ukilesjoj fab bihuf uru. Vap sogsap lefbo ulerep am dubi poctib pi wiselvi ho hi dac pumu. Evite ehba ohwi ezonogku dob hutwuwho ar bunlid pisotewa cupvugju cufewa wog recdir."
+  },
+  "apiKey": "600a4083bbc6bc2286e67d542e5802f53119e52db1bab8bcf22114560e77e3f0",
+  "currency": {
+    "code": "GHS",
+    "name": "Ghana Cedi"
+  }
+}
