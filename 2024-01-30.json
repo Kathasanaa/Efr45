@@ -1,0 +1,26 @@
+{
+  "name": "Catherine Gonzales",
+  "age": 46,
+  "address": {
+    "street": "Iwepa Highway",
+    "city": "Setiteza",
+    "state": "TX",
+    "zip": "57637"
+  },
+  "contact": {
+    "phone": "(627) 713-5772",
+    "servicePhone": "800588415"
+  },
+  "birthday": "1979-04-21T21:45:35.677Z",
+  "ip": "153.58.249.105",
+  "foo": "bar",
+  "profile": {
+    "about": "Gubojsa rafcar waucagi cipido giz janteb vesduhi ruhduum ham ha ibaasa keuzi lizi cugpop askej aje si nacho. Je oho me paav itina aruv vu lehooh wowbogguj zeiv kikogibaz usziac. Gaduvad pedik vuebhe hiz fepsiw radizeg le kobugzaf li finnezo afokuihe hen zaknovow worur ijaifew.",
+    "bio": "Wimulosov ci tufrauna kogi gugve ate woife ul gij es momwacced kumalvas dawatir botfodus. Muvvi hi su vaghimve ucafa ko mojeba ge tamjiw jepden icoibu iteitgi topsinnuc kepdacow jem bigaruk fo pikme. Sawsu ev ahefinu tenemho nokmerabu si uguifuzo izmo mezbocjo hejvac kitisor cigubol luksubi fe locis gapat utipoja."
+  },
+  "apiKey": "07d9a884f0d1d4b7974cc562c9c1b7136c10180df6805afe0c273c6ba9c309f2",
+  "currency": {
+    "code": "PEN",
+    "name": "Peru Nuevo Sol"
+  }
+}
