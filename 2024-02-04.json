@@ -1,0 +1,26 @@
+{
+  "name": "Alexander Barrett",
+  "age": 52,
+  "address": {
+    "street": "Izice Square",
+    "city": "Ciweuze",
+    "state": "MO",
+    "zip": "53304"
+  },
+  "contact": {
+    "phone": "(220) 377-3383",
+    "servicePhone": "800834861"
+  },
+  "birthday": "1964-06-12T09:41:19.538Z",
+  "ip": "88.170.70.232",
+  "foo": "bar",
+  "profile": {
+    "about": "Pel ditvub zinket nemsa geh dip himaruk ku sefruref ciwaj sanrare degikru defomoz jikafomi ukkamat haztarsu. Ajkuz mibus mewsad puuwoso suputi ondugpum got apu zeguhif ec ganufmun si wa mojpikun codkos ehoga ibenpe farzise. Oti ewi huiwi da jelasuso ofawupeh emo dofilira hilgifnum po gagit hir wowhu fogsefhi. Zuwu om po arju er dipoz isu kozece nimwi gi omowubka leda. Sebwa ig ig upfuz ite bofi napueve ferpima li kabuwug bu ib iwniri viw ireripu. Toc kedsatoz mil guj wulbu pigecow gew gali ocu dodazor bak jefjozci zehrehuw boemuhu ra likto fugu ni.",
+    "bio": "Ga ew de sugu iz dek oticjeb hemodso zitnocvok re sugo beztit ni ofoza iwi fotkif dool. Tazowwir vonbiid rervar idewtil rudihil ti tinguvir iwa zob engu lad epzi kueco tidcit jopobi. Goruba ashaeg iha gul simave okevhek gar mo nilu ewahu vu dizdok boc ubalfug."
+  },
+  "apiKey": "044337d7eadd2cbe6038cb4caeb4c6c20e4b46915a428bbcf5f3f1c12b42564c",
+  "currency": {
+    "code": "VEF",
+    "name": "Venezuela Bolivar"
+  }
+}
