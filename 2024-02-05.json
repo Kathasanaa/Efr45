@@ -1,0 +1,26 @@
+{
+  "name": "Walter Cruz",
+  "age": 60,
+  "address": {
+    "street": "Ameki Mill",
+    "city": "Pimcapu",
+    "state": "ND",
+    "zip": "83632"
+  },
+  "contact": {
+    "phone": "(282) 650-6204",
+    "servicePhone": "800891867"
+  },
+  "birthday": "1961-04-05T02:53:59.931Z",
+  "ip": "2.158.97.234",
+  "foo": "bar",
+  "profile": {
+    "about": "Zujodiko uzduf ez pa hivohfoj adekabi vis piak pal wepjagi wa cofodro. Fuvlikaj uciwaho fi utiwujce jilawe kaowlar dapitfom bunuaw wezuse uh lobef goesoba ovju. Pe iw fenogan utrile zen bus kazek div imacen iz potiju ofvotep li he.",
+    "bio": "Zazkemtah us kep bimnofzi jo kubugo ek leavi bacap pamloci wibug buj ilca zilpew tobut wafabugo ra. Wenugzim viskevhiz ulali tubtason bozguroz epjoti ci vi jun vu lahiwuz ro. Pi vaddac is juul usiugdej ca zavra ibda ro zifsanbag hansi enupe ge bucub gi. Ge jok we cibiv januz cop is ke udicosif bur norusuot ku hif pu. Fofiv wodco zema dowu bobroit ahiubtil utoujlig rezeve mopu ruzufguk jelsa upa pac ka kefesulik. Jedi ufoepike im tutik vebve kanlop bekpigoca luwazi vo egkuoc rig mec ru hujmulaz bodde foclaplih hetos op. Juhu ba efliti ziola ves ifi fudosu hamzo wos dur nifnike go lualo se."
+  },
+  "apiKey": "dacdcce69e8eec3622946af3198a50106f567b9cc13367e700ddb74fdb0bada1",
+  "currency": {
+    "code": "EGP",
+    "name": "Egypt Pound"
+  }
+}
