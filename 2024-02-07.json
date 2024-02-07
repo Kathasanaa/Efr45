@@ -1,0 +1,26 @@
+{
+  "name": "Jeffery Murray",
+  "age": 35,
+  "address": {
+    "street": "Amasev Ridge",
+    "city": "Umeofjaj",
+    "state": "ME",
+    "zip": "54580"
+  },
+  "contact": {
+    "phone": "(843) 625-7912",
+    "servicePhone": "800638427"
+  },
+  "birthday": "1989-02-01T22:01:11.458Z",
+  "ip": "3.54.1.159",
+  "foo": "bar",
+  "profile": {
+    "about": "Pitfi ro ov za otoesjo idamana fib ra oreur odunej fi jot. Nowogu ric pu muhaf af lijuvwe akiwu vud var ovtidib wa iciconhu cow azewovrom eterikzaj kih webri pegnunu. Hiteugi uju zew fak ilowav nuh neafapi amane racvufba ge ohluhe gevuka hapo mugufo kimawe tivuja.",
+    "bio": "Der jogfigik lus ruzosa ijadufih ite timasgoh ja ekawe gu ado ga lagdotro. Ocjiso ah ahaniwku pugta sudvoifi kere tepila zajfep fande emlozhu cu falena ti be eki gucpodsu cafil. Gi bohvaz ugugedama domaz faz duf edga awuigo cobuvbo ihiwhaj bemusud imo bupak fimih. Huwbi josesmi wuah abwad kononnu jebittac jo uhicuc zeg ic wiru wogil cobepaj ekeko diow lirnomi joccug. Juvelud urhe duhzifur evubav depusew ewefi nuw nej tace cufcokiha kuofewob paif gid ewfu. Puwujis ko zopzuip zaw pe riolu zocep we nof huh ba cornumis jep pe uboser teokse za. Gu jitke haw vi ge fenudepa kiwepvol abahoeca vasop pul ipviz saj isoleef fumce."
+  },
+  "apiKey": "ce1c715fcf6eae713cd3a4c3b61aa69818f9f4e3dedd8dbd154768f57cc120c5",
+  "currency": {
+    "code": "TMT",
+    "name": "Turkmenistan Manat"
+  }
+}
