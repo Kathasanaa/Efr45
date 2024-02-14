@@ -1,0 +1,26 @@
+{
+  "name": "Alberta Pierce",
+  "age": 23,
+  "address": {
+    "street": "Ceshi Loop",
+    "city": "Imgukip",
+    "state": "NV",
+    "zip": "87001"
+  },
+  "contact": {
+    "phone": "(673) 931-3079",
+    "servicePhone": "800249822"
+  },
+  "birthday": "1982-08-27T21:24:03.549Z",
+  "ip": "43.19.234.118",
+  "foo": "bar",
+  "profile": {
+    "about": "Laafi ob jabnilzi fufota uziziv alfadhuh eziutmu decho ecrihcud kuj lu ahoza ubforli. Rob sivi jeder zo samjag salid kiajizak or su it is gil vevug cevipab rar ukcere pez. Gedigucad nisdof jaha ti revur gomofut tocvor egato imegiih jamov nulza nebmefa pacotuso.",
+    "bio": "Zadic le me cefpicka edu ife voajvab gufvo ticajane apoil guctu keko. Gile kojaw pul ji jib laje peeh bo obu cog nohzij ihulovnis. Ve balpowal vodamal fo okere na isiavevo gusop pezukiki bi nes cafhi seve epu ite."
+  },
+  "apiKey": "48c920b49ffedefe3937e3e6977b3963ab777e3d42f9a5dd1a032b5a2abf53c4",
+  "currency": {
+    "code": "ETB",
+    "name": "Ethiopia Birr"
+  }
+}
