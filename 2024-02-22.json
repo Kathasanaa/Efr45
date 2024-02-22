@@ -1,0 +1,26 @@
+{
+  "name": "James Waters",
+  "age": 32,
+  "address": {
+    "street": "Gidi Place",
+    "city": "Ziekaode",
+    "state": "WY",
+    "zip": "53973"
+  },
+  "contact": {
+    "phone": "(727) 701-9305",
+    "servicePhone": "800719857"
+  },
+  "birthday": "1966-09-10T09:51:29.507Z",
+  "ip": "91.142.36.29",
+  "foo": "bar",
+  "profile": {
+    "about": "Hoj pagig conuto dozofacep pon juap waen lijow bobcigweb ciw haj casno enerukop ke fatejno tuf mijmeeti ocidonli. Fummaswe suhu ufsejjoz fawoz ugu lobvi dir pijfo kac ruocetom unubu bi. Zuze fove kuffoz kuar otze oguul gutuhge re heazizo po dolfal lecfi epo mi amu obefica. Uciril si ga fe mofkozsop mej wes apa il uceconoh heduf raipoh ru duguih. Mol jutvog galciisu fewidko izavoham tu ruvotuz pucifaco hepgav sohfek ig ejeip zub di hozo.",
+    "bio": "Go lida hirnutir kispevjo izac suv balna widi kurkihog ip hifdesoj ipu wukifhig hafa vocu zezgiz letepje. Munutif zuj piut kera dawtihiw wov zamasa ik oji hajobvud umdol seipu noduluco atu. Fe fap keve ago zeweleh nese ma ju izu busetipa zu capsup ke goal. Lunotlob runilaz bu ubcer efadoz olre uw jezi emob rotil zo bor kum vujwovhul vifduvte giedupa wev afate."
+  },
+  "apiKey": "a9d3db00de919c85810a5edadf560aee7b06cc465be19fa95c941ae58db8163a",
+  "currency": {
+    "code": "CUC",
+    "name": "Cuba Convertible Peso"
+  }
+}
