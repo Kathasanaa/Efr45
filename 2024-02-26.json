@@ -1,0 +1,26 @@
+{
+  "name": "Darrell Horton",
+  "age": 62,
+  "address": {
+    "street": "Tarsa Pike",
+    "city": "Pofelisig",
+    "state": "MD",
+    "zip": "03260"
+  },
+  "contact": {
+    "phone": "(716) 558-2079",
+    "servicePhone": "800295399"
+  },
+  "birthday": "1966-12-11T20:01:22.962Z",
+  "ip": "180.107.39.253",
+  "foo": "bar",
+  "profile": {
+    "about": "He ze tu voh hal dazwufhi ocfilac dewiw sebgu beabcej gito bejoj daawe ri nefeg fof. Upe coidolo azhiw to ofa cug vi fisesag kuk tovip sa doazu sefe. Av ze zawez muv tatowmi guztih fufnueh onekauco ota kacimdoh fueja sel ciputjop hitanu.",
+    "bio": "Nos tiwbo loghin zi leb ne ra wi buzeb pof emgir julzernis memvi puvno fezeweis garzifof. Vobsukbaz roz uvuupi po cob humcuv cathadnur gij beg aksam mu ehoecu ile odwegiv ut. Kivcazul vefarkuv vowabuwep degpa rilrapak cid li udihazeh eb valbasce cauli fi peasdi tesimiri viltucmi tenti rarom ehu. Gejtutez weomjot dugetmum bib hamo ute nunfook kuz ur fel pezezi ezuzidum ran cedva si rucopah pekucwoz."
+  },
+  "apiKey": "069f95d4b66b96a82d2981ff943c03b219b0514b4123e1b37bb60bc72179ce42",
+  "currency": {
+    "code": "SOS",
+    "name": "Somalia Shilling"
+  }
+}
