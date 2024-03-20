@@ -1,0 +1,26 @@
+{
+  "name": "Joe Bridges",
+  "age": 33,
+  "address": {
+    "street": "Wacebe Turnpike",
+    "city": "Sevnahe",
+    "state": "MO",
+    "zip": "25788"
+  },
+  "contact": {
+    "phone": "(349) 387-4128",
+    "servicePhone": "800646772"
+  },
+  "birthday": "1986-03-13T18:14:13.302Z",
+  "ip": "94.116.171.204",
+  "foo": "bar",
+  "profile": {
+    "about": "Pokok rekrezu te hozaipu kof hekgu tagag kipzu neh lo vegrum du ze pojroebe. Cedwiwpo hidezte obvahkof cecaar tekcoplo cahzuda gepimi bar nug kogerlof sakawgez fisuzauj ohiwes ujivitceb tem onosiv evenipsi tilda. Te oldu we vibtogif hoduewi fawlodev ah puocazo hudej ojaknes avi bahpuwif re.",
+    "bio": "Ama papupepo mokuwodun rulsuv ihice zuto wawabup joc kernu zow cawwe fe gefetkan. Sar na ze voompof ru ga tup suz kazwigo up ureruh lefil opi. Ipujki pagbojlaj kaut ukpodoh lawigje vuvab wawforuv ac nozwabig emjidu no karaw nulkane."
+  },
+  "apiKey": "dbab724075c6c5be73461f895e3f5ff5c51bad5941593b2fcffd150cb8ce3d2a",
+  "currency": {
+    "code": "BRL",
+    "name": "Brazil Real"
+  }
+}
