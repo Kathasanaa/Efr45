@@ -1,0 +1,26 @@
+{
+  "name": "Edwin Bridges",
+  "age": 33,
+  "address": {
+    "street": "Omli Path",
+    "city": "Vimewid",
+    "state": "MI",
+    "zip": "59681"
+  },
+  "contact": {
+    "phone": "(469) 640-5534",
+    "servicePhone": "800189238"
+  },
+  "birthday": "1995-11-29T02:07:42.791Z",
+  "ip": "173.201.107.135",
+  "foo": "bar",
+  "profile": {
+    "about": "Izejuc inanura hakecviv wu nejo sobapum honisnic ujgoaju omoeliok ohepageb fargef tuludmow gohobla kezorimi bofgo ati misesna. Verojdi nupecjib sicohna se ulihejis keobin coor fuzeguj kus simow uhba zidi ah obadudib he ah gi miboguf. Vegpusba hafuza lareluro do wive nizi ot kizca rotofoah amukate lafcirvup redmedvu va ehdobtav wuwol hajulre.",
+    "bio": "Opaec ofalan ve agkura do foim fezem siuwipid wuwvat ludu fu rejusuz. Wuc wihi kofowoal wihidze fujodupa holtizal fekbegef mela vuanale ufsa ojdahi ujpi ic er za gak. Oba tueh gote atbesmo kejav ri cotip obus zizot av pupteol zomuwedig puroemi man."
+  },
+  "apiKey": "8c8b68ac8aa2983c9d2a1d59c8e598b006f66ca93b352c36a47789f1dbdcf749",
+  "currency": {
+    "code": "XDR",
+    "name": "International Monetary Fund (IMF) Special Drawing Rights"
+  }
+}
