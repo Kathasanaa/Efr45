@@ -1,0 +1,26 @@
+{
+  "name": "Richard Hunter",
+  "age": 19,
+  "address": {
+    "street": "Rejece Avenue",
+    "city": "Meromwih",
+    "state": "MA",
+    "zip": "77573"
+  },
+  "contact": {
+    "phone": "(480) 930-6547",
+    "servicePhone": "800685186"
+  },
+  "birthday": "1985-01-19T20:00:43.938Z",
+  "ip": "38.159.107.52",
+  "foo": "bar",
+  "profile": {
+    "about": "Faso giw kunuv ibmobze si nuviw lav civer bujta pasmin zu le ranav oniuzru osage re. Uca baf dog zokur racjutsed uwebehpul rirtik tubmemem lokda vu ilaceh vow ewneh kimfa jimiv emu kusa lis. Jepmuv figodugo ogu atcu vu vi kaac lazvujuk iwavilki sezag oheawevew rih supis naew esena. Vitezu ralsevhi fonwitem hamkokuk luti luztez ta ramutjaw anailu reboz bik rosik teit biva ataki. Cowesap hahji jowsinwi geco ahuni kibjudo rubdubfi posjapje zo jilip etuere adihu lelbasuvu cuw it joz eb. Joc il move negfa na ludnu evu cacegke fela ufi tisgu ena bohre.",
+    "bio": "Mehjur se deheve sep jeb agrofupi wekkow egumiha zu vudepe iwsi vegaba puebhe. Po zicur jaubwen fav idogenla icijo lukbaf ulru jurfafkep eneacisuc tuonusi cu adoabago vawje gohime oveeh lahkeccef fevjos. Za fuc zuk zecut hudsa wul ig okvow bu gi kumzuir nehur acfo owa jiwbuej fepatjih faesgo re."
+  },
+  "apiKey": "a709b99118d24c1e15a4ccc44efc5d338d27785113487e07dc5d63e74308a33d",
+  "currency": {
+    "code": "CZK",
+    "name": "Czech Republic Koruna"
+  }
+}
