@@ -1,0 +1,26 @@
+{
+  "name": "Douglas Pratt",
+  "age": 63,
+  "address": {
+    "street": "Tanhub Parkway",
+    "city": "Tubowrag",
+    "state": "SC",
+    "zip": "91372"
+  },
+  "contact": {
+    "phone": "(425) 796-5098",
+    "servicePhone": "800558463"
+  },
+  "birthday": "1991-11-14T14:18:15.700Z",
+  "ip": "224.91.72.143",
+  "foo": "bar",
+  "profile": {
+    "about": "No lubib sabti horod zugo po viv komonasa ajedijve nofit bimi hawor pivtiru fo in do. Zulopgo vueclo wildimo kemu gupa hodejla agi imihadwu ulu usicupnem zobiluga mufepawo. Periik vefvanitu tacima togebwo bah hedug lipew wu fawfo um arase imhi imamejut ca gosvahkos capoc nuvunci kanwoni.",
+    "bio": "Laj ziv jemoc pevmo patepe cepanlu folo cebrevo mezuhhep ep doobuew cuw sumrejawu ommed mus. Zo bobjosi likusa terni fohu civzukwat la raivego pikdik we le zadkedadi fogahopo hez vu wocaco tebamfed vapamivah. He rebad haf hisdo hof wajcikup gaje jod danmip fuzgom ahiujavi susi utjem divhoshe."
+  },
+  "apiKey": "6663c09082b1fea41198d664d7daed2bef3e1d51be1b9892af760d622aa9a9f3",
+  "currency": {
+    "code": "NPR",
+    "name": "Nepal Rupee"
+  }
+}
