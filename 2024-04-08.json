@@ -1,0 +1,26 @@
+{
+  "name": "Tyler Cain",
+  "age": 26,
+  "address": {
+    "street": "Licgop Circle",
+    "city": "Merrobmo",
+    "state": "MA",
+    "zip": "00530"
+  },
+  "contact": {
+    "phone": "(921) 244-2949",
+    "servicePhone": "800825398"
+  },
+  "birthday": "1969-06-04T20:09:28.384Z",
+  "ip": "146.86.245.123",
+  "foo": "bar",
+  "profile": {
+    "about": "Mino nudnihzo bituore det jagbewvu harjusev kuz giv juba zawik gadiw wovobi sod le watore ura gusa. Zunfirmum goj uwuwin on dut mursu giztoura usi fegarim kegkep hadwen jocsewit turikot. Ti geptahod wop lofemi ke vunab hi peba iriger sosa vodkaw rulig hujim gumor vapreb. Lumhaj ak aho ebhakap egafelil fefsicat livmeb purhob cu lobepu zenu ja zuskijef edu hazdo ahvetaf gefog cetemrot. Nir sovri uzonaeh goc waporumuj kubdadew jobe con tovsas rivem jacebod lawar hev japimis.",
+    "bio": "Biafwig pereku cirito farat ipupe anjud ze muso ferziliwo signinig imuwabid vaka sisauz witmep. Toacu gabku lobtot ponnompec wofor mih zog hev eposiiz gietmi voim goedri. Ce wasgi do govoz wakasaoru weliwco uz pajrubner ijwe nu nafduda fibugizo gubgebaf ede. Dar zinsob hekdogaj pirohi ko cudaz bidig radgi zizenowot fid jawojcu wabisku cek vo su zugiw."
+  },
+  "apiKey": "f92d24d1323ba619b7fe4b00dd4b4aedde8e0c071a28280891eb9aa7ce04d71a",
+  "currency": {
+    "code": "MXN",
+    "name": "Mexico Peso"
+  }
+}
