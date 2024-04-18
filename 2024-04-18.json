@@ -1,0 +1,26 @@
+{
+  "name": "Joshua Clayton",
+  "age": 30,
+  "address": {
+    "street": "Pupuw Extension",
+    "city": "Ahfotdon",
+    "state": "WI",
+    "zip": "81932"
+  },
+  "contact": {
+    "phone": "(561) 297-2476",
+    "servicePhone": "800631452"
+  },
+  "birthday": "1986-10-05T14:18:49.840Z",
+  "ip": "34.69.233.254",
+  "foo": "bar",
+  "profile": {
+    "about": "Modak negadvu re ci kos fulbi niljagce gogtamuv vo ova am sanofove pioruuke. Golivmel isooduvur hipzaj mo siro falerho osumus pehhuz guiwurok uh ge ne. Nenova eh wile now zisdijew bes ateceh gavruduf pabahuf jaka hupu jogawon hipulwom fab wi zagod faic.",
+    "bio": "Ilo telafrut buha lijrucgov nad lu joc rauvpic osre ujlak acoire tikwobgi gutossas hime rilimo ziruuw. Huwgo kor zaote bidur rowcincip nincozez ubi huti to vihnorcej na wi ninistef nike tegwir ped gehu ciubci. Renenuz nuzuloci evminol hoena liru zo akeses tefug hedmevcoh vopufi sigjid to ih asocudcaj oc guokiki dis."
+  },
+  "apiKey": "7bb18007e85ff3ddb4bbded03250cb3da926f602c57f27031ef21794a40826fe",
+  "currency": {
+    "code": "JEP",
+    "name": "Jersey Pound"
+  }
+}
